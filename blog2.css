@@ -1,0 +1,27 @@
+.nav {
+    align-items: right;
+    text-align: right;
+    justify-content: space-evenly;
+    display: flex;
+    background-color: rgb(226, 170, 180);
+    margin: 0%;
+    padding: 25px;
+}
+
+body {
+    background-image: url("Trevor-Noah-Born-a-Crime-book-900x513.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-content: center;
+}
+
+.parr {
+    margin: auto 0px;
+    padding: 50px;
+    width: 500px;
+    background-color: rgb(246, 188, 188);
+    text-size-adjust: 2000px;
+    float: left;
+    align-items: baseline;
+    margin-top: 0;
+}

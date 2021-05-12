@@ -1,0 +1,42 @@
+        .header1 {
+            margin: auto 0px;
+            padding: 25px;
+            width: 500px;
+            background-color: rgb(226, 170, 180);
+            float: right;
+            margin-top: 160px;
+        }
+        
+        .body {
+            background-image: url("themakeoverjane.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            justify-content: center;
+            overflow: hidden;
+        }
+        
+        .nav {
+            align-items: right;
+            text-align: right;
+            justify-content: space-evenly;
+            display: flex;
+            background-color: rgb(226, 170, 180);
+            padding: 30px;
+        }
+        
+        a:hover {
+            color: rgb(236, 13, 236);
+        }
+        
+        a {
+            text-decoration: none;
+        }
+        
+        .marq {
+            background-color: rgb(226, 170, 180);
+            padding: 25px;
+            bottom: 0%;
+            width: 100%;
+            margin: auto 3%;
+            margin-top: 35%;
+        }

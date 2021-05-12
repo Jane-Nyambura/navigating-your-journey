@@ -1,0 +1,44 @@
+    .parr {
+        margin: auto 0px;
+        padding: 30px;
+        width: 500px;
+        background-color: rgb(246, 188, 188);
+        text-size-adjust: 2000px;
+        float: right;
+        align-items: baseline;
+        margin-top: 0px;
+    }
+    
+    body {
+        background-image: url("pexels-photo-1083822.jpeg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        justify-content: center;
+        overflow: hidden;
+    }
+    
+    .nav {
+        align-items: right;
+        text-align: right;
+        justify-content: space-evenly;
+        display: flex;
+        background-color: rgb(226, 170, 180);
+        margin: 0%;
+        padding: 25px;
+    }
+    
+    a:hover {
+        color: rgb(236, 13, 236);
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    .jk {
+        padding: 0px;
+        margin-bottom: 0%;
+        padding: 0px;
+        margin-right: 750px;
+        padding-bottom: 90px;
+    }
